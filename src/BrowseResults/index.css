@@ -1,0 +1,50 @@
+.home {
+  height: 100vh;
+
+  text-align: center;
+}
+
+.heading {
+  color: #3367d6;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.navbar-container {
+  background-color: #3367d6;
+  padding: 10px;
+  margin: 10px;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image {
+  height: 20px;
+
+  background-size: cover;
+}
+
+.search-container {
+  display: flex;
+  background-color: #2850a7;
+  padding: 3px;
+  align-items: center;
+}
+
+.search-image {
+  height: 25px;
+  width: 25px;
+  background-size: cover;
+  padding: 5px;
+}
+
+.search {
+  background-color: transparent;
+  margin: 2px;
+}
+
+.list-container {
+  list-style: none;
+}
+
