@@ -1,0 +1,29 @@
+.item-container {
+  width: 70vw;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.logo-container {
+  display: flex;
+  width: 50vw;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 30px;
+  width: 30px;
+}
+
+.parag {
+  padding: 30px;
+}
+
+button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
